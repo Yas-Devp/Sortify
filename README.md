@@ -41,7 +41,7 @@ gcc sortify.c -o sortify
 
 *Roadmap*
 
-Planned improvements for future versions:
+Planned improvements for future versions inshallah:
 
 - Difficulty selection
 - Undo functionality
@@ -49,11 +49,11 @@ Planned improvements for future versions:
 - Smarter shuffling to guarantee solvable levels
 - More color options and visual polish
 
-*License*
+## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-*Author*
+## Author
 
 Developed by *Yas* — a self-taught C programmer passionate about game logic, minimal design, and building fun experiences in the terminal.
 
