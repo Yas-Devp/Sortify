@@ -1,6 +1,6 @@
 # Sortify
 
-**Sortify** is a command-line puzzle game written in C, inspired by mobile color sorting games. The goal is simple: move colored blocks between tubes until each tube contains blocks of a single color. It’s lightweight, fast, and designed to run smoothly on minimal Linux setups like antiX.
+**Sortify** is a command-line puzzle game written in C, inspired by mobile color sorting games. The goal is simple: move colored blocks between tubes until each tube contains blocks of a single color. It’s lightweight, fast, and designed to run smoothly on minimal Linux setups.
 
 ## Features
 
@@ -15,7 +15,8 @@
 ### Requirements
 
 - GCC or any C compiler
-- Linux terminal (tested on antiX, should work on most distros)
+- Linux terminal (tested on debian based distro , should work on most distros)
+- can also work in windows / macos systems (just compile & build the game ^_^)
 
 ### Build
 
@@ -60,3 +61,4 @@ Developed by *Yas* — a self-taught C programmer passionate about game logic, m
 ---
 
 If you’d like to contribute, feel free to fork the repo or open an issue. Feedback is always welcome.
+
