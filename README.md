@@ -23,7 +23,7 @@
 Clone the repository and compile the source:
 
 ```bash
-gcc sortify.c -o sortify
+gcc main.c -o sortify
 ```
 
 *Run*
